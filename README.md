@@ -12,6 +12,15 @@ I enjoy learning how software applications are built and developing my skills th
 
 Coding is my passion because it is something I genuinely enjoy doing. I want to build a career in software development and become a skilled software developer. I am learning to code so that I can develop the technical skills needed to create useful software applications and use technology to solve real-world problems.
 
+## Technologies I am learning
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git and GitHub
+- Linux
+
 ## Things I want to build
 
 - A personal portfolio website
